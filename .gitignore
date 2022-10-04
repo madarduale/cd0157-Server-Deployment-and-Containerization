@@ -1,7 +1,8 @@
 .DS_Store
 .env*
-.flaskenv
+flaskenv/**
 flask-venv/
+flask-venv
 *.pyc
 *.pyo
 env/
